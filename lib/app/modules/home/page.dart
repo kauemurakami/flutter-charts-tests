@@ -99,6 +99,7 @@ class HomePage extends GetView<HomeController> {
             child: Text('Gráfico de velas'),
           ),
           Container(
+            margin: EdgeInsets.only(bottom: 16.0),
             width: Get.width,
             height: Get.height / 3,
             child: SfCartesianChart(
