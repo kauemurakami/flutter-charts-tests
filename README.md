@@ -1,6 +1,13 @@
 # charts_tests
 
-A new Flutter project.
+Testando diversos tipos de gráficos
+- Interação com clicks no gráfico de rendimentos e zoom no gráfico de velas 
+![Rendimentos](https://github.com/kauemurakami/flutter-charts-tests/blob/master/rendimentos.jpg)
+![Spark Line simple chart](https://github.com/kauemurakami/flutter-charts-tests/blob/master/simplechartsparkline.jpg)
+![Gráfico de velas](https://github.com/kauemurakami/flutter-charts-tests/blob/master/velaszoom.jpg)
+![Velas com zoom](https://github.com/kauemurakami/flutter-charts-tests/blob/master/zoomnovelas.jpg)
+
+
 
 ## Getting Started
 
